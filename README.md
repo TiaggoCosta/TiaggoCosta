@@ -1,5 +1,7 @@
 # Tiago Costa
 
+![images/penne.jpg](images/penne.jpg)
+
 ### Diga amigo e entre
 
 Aqui tu podes encontrar alguns trabalhos do curso de Ciência da Computação da Unisinos 👨‍🎓, bem como alguns projetos que venho trabalhando. Estou sempre tentando aprofundar meus conhecimentos e revisitar projetos pra melhorá-los, não repara a bagunça. Se quiser, pode me encontrar também nestes canais: 
