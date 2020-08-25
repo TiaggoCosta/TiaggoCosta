@@ -1,6 +1,6 @@
 # Tiago Costa
 
-![images/penne.jpg](images/penne.jpg)
+
 
 ### Diga amigo e entre
 
