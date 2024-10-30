@@ -18,6 +18,6 @@ Além dos projetos desenvolvidos durante a faculdade, como o protótipo de jogo 
 Conecte-se comigo nos canais abaixo, ou visite meu portfólio para mais informações sobre meus projetos:
 
 <a href="https://www.linkedin.com/in/tiaggocosta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://tiaggocosta.github.io"><img src="https://img.shields.io/badge/portfolio-%13b93a.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://tiaggocosta.github.io"><img src="https://img.shields.io/badge/portfolio-%13b93a.svg?&style=for-the-badge&logo=github&logoColor=black" /></a>
 
 > 📌 "Mesmo a menor pessoa pode mudar o curso da história."
