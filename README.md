@@ -2,7 +2,7 @@
 
 ### Bem-vindo ao meu perfil!
 
-Aqui você pode conhecer um pouco mais sobre meu trabalho em **Desenvolvimento Web** e **Acessibilidade Digital**. Sou formado em Ciência da Computação pela Unisinos 👨‍🎓 e desenvolvedor com experiência em projetos focados em inclusão e acessibilidade, além de segurança da informação e sustentabilidade tecnológica.
+Aqui você pode conhecer um pouco mais sobre meu trabalho em **Desenvolvimento Web** e **Acessibilidade Digital**. Sou formado em Ciência da Computação pela Unisinos 👨‍🎓 e desenvolvedor com experiência em projetos focados em inclusão e acessibilidade, além de segurança da informação.
 
 Além dos projetos desenvolvidos durante a faculdade, como o protótipo de jogo acessível para pessoas com deficiência visual, aqui também compartilho alguns dos meus trabalhos recentes e experimentos com tecnologias como **Node.js**, **PHP**, **JavaScript**, **MySQL** e metodologias ágeis. Estou sempre explorando novas ideias, aprimorando projetos e aplicando os conhecimentos adquiridos em experiências profissionais e de pesquisa. 
 
